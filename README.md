@@ -20,6 +20,8 @@ Môi trường làm việc và công cụ
     + [GitGutter](https://github.com/jisaacks/GitGutter)
     + [sublime-text-git](https://github.com/kemayo/sublime-text-git)
     + [Babel](https://packagecontrol.io/packages/Babel)
+    + https://github.com/feross/standard
+    + https://packagecontrol.io/packages/FileHeader
 
 
 ### Atom
@@ -36,6 +38,12 @@ Môi trường làm việc và công cụ
 
 ### OpenSCAD
 
+### STM32
+
+### STM8
+
+### ESP8266 & ESP32
+
 
 ## Trình biên dịch & công cụ
 
@@ -50,11 +58,16 @@ Môi trường làm việc và công cụ
 ### StlinkV2
 
 ## Git & Github
-
 - .gitignore
 - Hướng dẫn
+- https://github.com/jlord/git-it-electron
 
 ## App & Framework & Programming language
+
+### CLI
+- http://cli.learncodethehardway.org/book/
+- https://github.com/jlevy/the-art-of-command-line
+- https://github.com/denysdovhan/bash-handbook
 
 ### Electron
 
@@ -64,15 +77,32 @@ Môi trường làm việc và công cụ
 
 ### react-native
 
-### Learn by the hard way
+### C & C++
+- http://c.learncodethehardway.org/book/
+- https://github.com/mbcrawfo/GenericMakefile
+- http://makefiletutorial.com/
 
 ### Javascript & EMACScript 6
+- [Style guide](https://github.com/airbnb/javascript)
 
 ### Code Style
 
 ### mbedOS & yotta 
 
 ### .editorconfig
+
+## Connectivity & IoTs
+- MQTT 
+
+
+## Documentation
+### Markdown
+
+### AsciiDoc
+
+### Gitbook
+
+### Github Pages & Jekyll 
 
 
 
