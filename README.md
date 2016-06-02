@@ -71,9 +71,9 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 
 ### Electron
 
-### React
-
-### Redux
+### React & Redux
+- http://redux.js.org/
+- https://egghead.io/series/building-react-applications-with-idiomatic-redux
 
 ### react-native
 
@@ -93,6 +93,13 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 
 ## Connectivity & IoTs
 - MQTT 
+- TCPIP/HTTP/HTTPS
+  + https://github.com/alex/what-happens-when
+- LoraWan
+- Wifi
+- Bluetooth LE
+- RS485/RS232
+- I2C/SPI/UART
 
 
 ## Documentation
