@@ -18,6 +18,10 @@ Môi trường làm việc và công cụ
     + [SublimeAStyleFormatter](https://github.com/timonwong/) - [Recommend setting for C](./SublimeAStyleFormatter.sublime-settings)
     + [.editorconfig](https://github.com/sindresorhus/editorconfig-sublime) - [Recommend config](./.editorconfig)
     + [GitGutter](https://github.com/jisaacks/GitGutter)
+    + [sublime-text-git](https://github.com/kemayo/sublime-text-git)
+    + [Babel](https://packagecontrol.io/packages/Babel)
+
+
 ### Atom
 
 ### Eclipse
@@ -30,7 +34,7 @@ Môi trường làm việc và công cụ
 
 ### OpenSCAD
 
-## Trình biên dịch
+## Trình biên dịch & công cụ
 
 ### GNU C
 
@@ -41,3 +45,25 @@ Môi trường làm việc và công cụ
 ### Debugger
 
 ### StlinkV2
+
+## Git & Github
+
+## App & Framework & Programming language
+
+### Electron
+
+### React
+
+### Redux
+
+### react-native
+
+### Learn by the hard way
+
+### Javascript & EMACScript 6
+
+### Code Style
+
+### .editorconfig
+
+
