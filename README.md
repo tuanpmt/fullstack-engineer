@@ -30,9 +30,12 @@ Môi trường làm việc và công cụ
 
 ### KiCad
 
+### OpenOCD
+
 ### FreeCAD
 
 ### OpenSCAD
+
 
 ## Trình biên dịch & công cụ
 
@@ -47,6 +50,9 @@ Môi trường làm việc và công cụ
 ### StlinkV2
 
 ## Git & Github
+
+- .gitignore
+- Hướng dẫn
 
 ## App & Framework & Programming language
 
@@ -64,6 +70,9 @@ Môi trường làm việc và công cụ
 
 ### Code Style
 
+### mbedOS & yotta 
+
 ### .editorconfig
+
 
 
