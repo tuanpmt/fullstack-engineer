@@ -1,6 +1,6 @@
-# dv-env
+# DV ENV
 
-Môi trường làm việc và công cụ
+Môi trường làm việc, công cụ, kiến thức, nền tảng cần có của một kỹ sư R&D chính hiệu
 
 ## Trình soạn thảo:
 ### Sublime Text 3
