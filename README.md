@@ -64,6 +64,8 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 
 ## App & Framework & Programming language
 
+### libopencm3
+
 ### CLI
 - http://cli.learncodethehardway.org/book/
 - https://github.com/jlevy/the-art-of-command-line
@@ -110,6 +112,5 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 ### Gitbook
 
 ### Github Pages & Jekyll 
-
 
 
