@@ -27,10 +27,12 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 ### Atom
 
 ### Eclipse
+- http://gnuarmeclipse.github.io/
 
 ## Phần cứng, 3D và vẽ mạch
 
 ### KiCad
+- [Getting started in KiCad](http://docs.kicad-pcb.org/en/getting_started_in_kicad.html)
 
 ### OpenOCD
 
@@ -41,6 +43,7 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 ### STM32
 
 ### STM8
+- http://blog.mark-stevens.co.uk/category/stm8/
 
 ### ESP8266 & ESP32
 
@@ -50,8 +53,6 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 ### GNU C
 
 ### SDCC
-
-### Makefile
 
 ### Debugger
 
@@ -79,7 +80,7 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 
 ### react-native
 
-### C & C++
+### C/C++ & Makefile
 - http://c.learncodethehardway.org/book/
 - https://github.com/mbcrawfo/GenericMakefile
 - http://makefiletutorial.com/
@@ -113,4 +114,5 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 
 ### Github Pages & Jekyll 
 
+### https://readthedocs.org/ 
 
