@@ -116,3 +116,9 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 
 ### https://readthedocs.org/ 
 
+## Extra 
+### Machine learning
+- https://github.com/rasbt/python-machine-learning-book
+- https://github.com/terryum/awesome-deep-learning-papers
+- Tensorflow 
+
