@@ -73,6 +73,8 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 - https://github.com/denysdovhan/bash-handbook
 
 ### Electron
+- http://kipalog.com/tags/Electron
+- https://github.com/chentsulin/electron-react-boilerplate
 
 ### React & Redux
 - http://redux.js.org/
