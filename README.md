@@ -1,6 +1,6 @@
 # DV ENV
 
-Môi trường làm việc, công cụ, kiến thức, nền tảng cần có của một kỹ sư R&D chính hiệu
+Môi trường làm việc, công cụ, kiến thức, nền tảng cần có của một kỹ sư R&D chính hiệu (Electronics, IT, IoTs)
 
 ## Trình soạn thảo:
 ### Sublime Text 3
