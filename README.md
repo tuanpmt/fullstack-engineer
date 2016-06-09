@@ -1,15 +1,15 @@
 # DV ENV
 
-Môi trường làm việc, công cụ, kiến thức, nền tảng cần có của một kỹ sư R&D chính hiệu (Electronics, IT, IoTs)
+Work environment, tools, knowledge, background required of a full stack R&D engineer genuine (Electronics, IT, IoTs)
 
-## Trình soạn thảo:
+## Editor:
 ### Sublime Text 3
 - Link download: https://www.sublimetext.com/
-- Học phím tắt: https://sublime-learning.herokuapp.com/
-- Phím tắt hữu dụng : 
+- Learn shortcut: https://sublime-learning.herokuapp.com/
+- Shortcut : 
     + http://www.hongkiat.com/blog/sublime-text-tips/
     + https://www.viget.com/articles/my-overused-sublime-text-keyboard-shortcuts
-- Cài đặt ban đầu: https://gist.github.com/anotheruiguy/11054534
+- Getting started: https://gist.github.com/anotheruiguy/11054534
 - Plug-ins:
     + http://emmet.io/
     + [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
@@ -29,7 +29,7 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 ### Eclipse
 - http://gnuarmeclipse.github.io/
 
-## Phần cứng, 3D và vẽ mạch
+## Hardware, 3D and Circuit design
 
 ### KiCad
 - [Getting started in KiCad](http://docs.kicad-pcb.org/en/getting_started_in_kicad.html)
@@ -48,7 +48,7 @@ Môi trường làm việc, công cụ, kiến thức, nền tảng cần có c�
 ### ESP8266 & ESP32
 
 
-## Trình biên dịch & công cụ
+## Compiler, tool, debug, programmer
 
 ### GNU C
 
