@@ -123,4 +123,5 @@ Work environment, tools, knowledge, background required of a full stack R&D engi
 - https://github.com/rasbt/python-machine-learning-book
 - https://github.com/terryum/awesome-deep-learning-papers
 - Tensorflow 
+- [Handcrafted starter projects, optimized for simplicity and ease of use](https://github.com/sahat/megaboilerplate)
 
