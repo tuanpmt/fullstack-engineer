@@ -95,6 +95,7 @@ Work environment, tools, knowledge, background required of a full stack R&D engi
 ### mbedOS & yotta 
 
 ### .editorconfig
+- http://editorconfig.org/
 
 ## Connectivity & IoTs
 - MQTT 
