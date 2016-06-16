@@ -101,6 +101,7 @@ Work environment, tools, knowledge, background required of a full stack R&D engi
 - MQTT 
 - TCPIP/HTTP/HTTPS
   + https://github.com/alex/what-happens-when
+  + https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
 - LoraWan
 - Wifi
 - Bluetooth LE
